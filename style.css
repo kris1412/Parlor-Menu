@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hompage - Parlor Eattery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Parlor Eattery</h1>
+    </div>
+    <div id="introduction">
+        <p>Welcome to the Parlor Eattery Website! Here you can find your favorite
+          variety of food, including breakfast, lunch and the appetizers for any
+          hour of the day.</p>
+        <p>
+        <br><br>
+        Enjoy your favorite drinks with the Weekend Special Parlor! Click on
+        the button to view our menu.
+        </p>
+
+    </div>
+    <div class="button">
+        <br>
+        <a href="menu.html"><h2>Menu</h2></a>
+    </div>
+</body>
+</html>
